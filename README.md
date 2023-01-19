@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AeX03/TornadoCash-VPN/blob/main/w%3D525.webp"  width="1100"/>
+<img src="https://github.com/AeX03/TornadoCash-VPN/blob/main/tornado-cash-logo.png"  width="1100"/>
 
 # TornadoCash-VPN
 
