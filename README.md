@@ -27,7 +27,13 @@
 
 ## The Prerequisites
 
-Install Python3 - [Download](https://www.python.org/downloads/)
+Install Python3 for Windows - [Download](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe)
+<br>
+:exclamation: do not forget to activate the "ADD TO PATH" when installing python !
+
+Install Tor for Windows - [Download](https://www.torproject.org/dist/torbrowser/12.0.1/torbrowser-install-win64-12.0.1_ALL.exe)
+<br>
+Install Tor for Linux   - [Download](https://www.torproject.org/dist/torbrowser/12.0.1/tor-browser-linux64-12.0.1_ALL.tar.xz)
 
 ## Start The Project
 
