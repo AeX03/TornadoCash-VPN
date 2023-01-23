@@ -65,6 +65,34 @@ Aafter The Start Of The TornadoCash :
 
 <br>
 
+## RPC Available
+
+Ethereum :
+`https://rpc.ankr.com/eth` :white_check_mark:
+<br>
+Binance Smart Chain :
+`https://rpc.ankr.com/bsc` :white_check_mark:
+<br>
+Polygone :
+`https://rpc.ankr.com/polygon` :white_check_mark:
+<br>
+Arbitrum :
+`https://rpc.ankr.com/arbitrum` :white_check_mark:
+<br>
+Fantom :
+`https://rpc.ankr.com/fantom` :white_check_mark:
+<br>
+Optimism :
+`https://rpc.ankr.com/optimism` :white_check_mark:
+<br>
+Tron :
+`https://rpc.ankr.com/http/tron` :white_check_mark:
+<br>
+Avalanche :
+`https://rpc.ankr.com/avalanche` :white_check_mark:
+
+<br>
+
 ## Video
 
 ## Supporters
