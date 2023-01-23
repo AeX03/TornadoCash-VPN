@@ -45,14 +45,17 @@ Install requirement : access this repository to configure and connect your web b
      Python3 install.py
 
 Start Auto Chang IP :
+<br>
+:warning: don't close the terminal :warning:
 
      Python3 autochangip.py
      
 Aafter The Start Of The TornadoCash :
-
-     cd..
+<br>
+:warning: Open new terminal and don't close :warning:
      
      cd TornadoCash-VPN/TornadoCash
+<br>
      
      Python3 -m http.server 8080
 
