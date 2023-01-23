@@ -36,8 +36,8 @@ except subprocess.CalledProcessError:
     print('[!] tor is installed succesfully ')
 
 os.system("clear")
-def ma_ip():
-    url='https://www.myexternalip.com/raw'
+def ma_ip(): #url='https://www.myexternalip.com/raw' doc text : 2.4.120.8
+    url='https://elysiane.eu/assets/styles/raw.txt'
     get_ip= requests.get(url,proxies=dict(http='socks5://127.0.0.1:9050',https='socks5://127.0.0.1:9050'))
     return get_ip.text
 
