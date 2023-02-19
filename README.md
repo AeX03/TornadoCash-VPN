@@ -71,19 +71,19 @@ Ethereum :
 `https://rpc.ankr.com/eth` :white_check_mark:
 <br>
 Binance Smart Chain :
-`https://rpc.ankr.com/bsc` :white_check_mark:
+`https://rpc.ankr.com/bsc` :x:
 <br>
 Polygone :
 `https://rpc.ankr.com/polygon` :white_check_mark:
 <br>
 Arbitrum :
-`https://rpc.ankr.com/arbitrum` :white_check_mark:
+`https://rpc.ankr.com/arbitrum` :x:
 <br>
 Fantom :
-`https://rpc.ankr.com/fantom` :white_check_mark:
+`https://rpc.ankr.com/fantom` :x:
 <br>
 Optimism :
-`https://rpc.ankr.com/optimism` :white_check_mark:
+`https://rpc.ankr.com/optimism` :x:
 <br>
 Tron :
 `https://rpc.ankr.com/http/tron` :white_check_mark:
