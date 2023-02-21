@@ -57,7 +57,7 @@ Aafter The Start Of The TornadoCash :
      cd TornadoCash-VPN/TornadoCash
 <br>
      
-     Python3 -m http.server 8080
+     Python -m http.server 8080
 
 <br>
 
